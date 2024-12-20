@@ -11,7 +11,7 @@ import SwiftUI
 struct AubioBPMDetectorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BPMView()
         }
     }
 }
